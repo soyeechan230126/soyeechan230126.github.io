@@ -15,21 +15,14 @@
 
 ### The Schrödinger-Equation in my heart
 
-$$
-    E\Psi = -\frac{\hbar^2}{2m}\frac{d^2\Psi}{dx^2}+V\Psi(x)
-$$
+$$ E\Psi = -\frac{\hbar^2}{2m}\frac{d^2\Psi}{dx^2}+V\Psi(x) $$
 
-With the solution for 1D movement,
-$$
-    \Psi(x) = A e^{ikx} + B e^{-ikx} = C sin(kx) + D cos(kx)
-$$
+With the solution for 1D movement,//
 
-Do not miss out the radial equation
-$$
-    \Psi(r,\ \theta,\ \phi) = R_{n,\ l,\ m_l}(r) + Y_{l,\ m_l}(\theta,\phi)
-$$
+$$\Psi(x) = A e^{ikx} + B e^{-ikx} = C sin(kx) + D cos(kx)$$
 
-And the **Variation Principle** is always the must-have in the house.
-$$
-    E = \frac{\int \Psi^* \hat{H} \Psi d\tau}{\int \Psi^* \Psi d\tau}
-$$
+Do not miss out the radial equation//
+$$\Psi(r,\ \theta,\ \phi) = R_{n,\ l,\ m_l}(r) + Y_{l,\ m_l}(\theta,\phi$$
+
+And the **Variation Principle** is always the must-have in the house.//
+$$E = \frac{\int \Psi^* \hat{H} \Psi d\tau}{\int \Psi^* \Psi d\tau}$$
