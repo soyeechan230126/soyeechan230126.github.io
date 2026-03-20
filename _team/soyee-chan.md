@@ -1,8 +1,14 @@
 ---
 layout: default
-title: Soyee Chan
-description: Student Assistent
+title: About the Team
+name: Soyee Chan
+description: {{ page.name }}
 ---
-Soyee Chan is a current student in Bachelor of Chemistry at Friedrich-Schiller-University Jena. Prior to her study she worked as a pharmacy dispenser under the setting of pharmacy as well as in multidisciplinary ambulant medical centre.
+[Home]({{site.url}}/) > [{{ page.title }}]({{site.url}}/#about-the-team) > {{ page.name }}
 
-At the moment she does not feel like sharing too much about herself :)
+## Soyee Chan
+---*Student Assistent*---
+
+Soyee Chan is a current student in Bachelor of Chemistry at Friedrich-Schiller-University Jena. Prior to her study she worked as a pharmacy dispenser under the setting of pharmacy as well as multidisciplinary ambulant medical centre.
+
+A passionate Newbie in programming :)

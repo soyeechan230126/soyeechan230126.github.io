@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Dr. Kevin Maik Jablonka
-description: Research Group Leader
+title: About the Team
+name: Dr. Kevin Maik Jablonka
+description: {{ page.name }}
 ---
+[Home]({{site.url}}/) > [{{ page.title }}]({{site.url}}/#about-the-team) > {{ page.name }}
+
+## Dr. Kevin Maik Jablonka
+---*Research Group Leader*---
 
 Kevin Jablonka is a chemist by training and diffused into machine learning. He finished his PhD at EPFL and moved directly after it, in June 2023, to Jena.
 
 The current focus of his research group is the usage of computational tools and machine learning to capture the tacit and fuzzy dimensions of chemistry and materials science – to design materials that work in the real world.
 
-[Check out more about current projects of lamalab](https://lamalab.org/)
+[Check out more about the current projects of lamalab](https://lamalab.org/)
