@@ -4,7 +4,7 @@ title: About the Team
 name: Prof. Dr. Christoph Steinbeck
 description: Meet the team.
 ---
-[Home]({{site.url}}/{{site.baseurl}}) > [{{ page.title }}]({{site.url}}/{{site.baseurl}}/#about-the-team) > {{ page.name }}
+[Home]({{site.baseurl}}) > [{{ page.title }}]({{site.baseurl}}#about-the-team) > {{ page.name }}
 
 ## Prof. Dr. Christoph Steinbeck
 --- *Professor for Analytical Chemistry, Cheminformatics and Chemometrics (Institute for Inorganic and Analytical Chemistry*

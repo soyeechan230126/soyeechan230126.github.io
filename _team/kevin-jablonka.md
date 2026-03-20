@@ -4,7 +4,7 @@ title: About the Team
 name: Dr. Kevin Maik Jablonka
 description: {{ page.name }}
 ---
-[Home]({{site.url}}/{{site.baseurl}}) > [{{ page.title }}]({{site.url}}/{{site.baseurl}}/#about-the-team) > {{ page.name }}
+[Home]({{site.baseurl}}) > [{{ page.title }}]({{site.baseurl}}#about-the-team) > {{ page.name }}
 
 ## Dr. Kevin Maik Jablonka
 ---*Research Group Leader*---
